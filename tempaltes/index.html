@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Processing App</title>
+  </head>
+  <body>
+    <h1>Image Processing App</h1>
+    <form action="/process_image" method="post">
+      <label for="filename">Filename:</label>
+      <input type="text" id="filename" name="filename"><br><br>
+      <label for="operation">Operation:</label>
+      <select id="operation" name="operation">
+        <option value="grayscale">Grayscale</option>
+        <option value="blur">Blur</option>
+        <option value="edge_detection">Edge Detection</option>
+      </select><br><br>
+      <input type="submit" value="Process Image">
+    </form>
+    <p><a href="/download_processed_image">Download Processed Image</a></p>
+  </body>
+</html>
