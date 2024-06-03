@@ -18,4 +18,4 @@ The system implements fault tolerance through a distributed architecture. Initia
 We use in this project many AWS services like cloud watch and SNS to monitor the CPU usage of the instances <br>
 ![image](https://github.com/Mazen030/CV-sudoku-solver/assets/93229175/a3d4ee72-8fed-4de4-90fe-5a70777864e2) <br>
 ![image](https://github.com/Mazen030/CV-sudoku-solver/assets/93229175/31c6bef0-cb69-4cf6-abf4-8391ee32e60a) <br>
- # special credits to:<br>Hassan Eltobgy, Zeina Hesham ,Mariam Diaa
+ # special credits to:<br>Mazen Mohamed, Zeina Hesham ,Mariam Diaa
